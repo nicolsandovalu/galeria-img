@@ -1,0 +1,20 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+  }
+  
+  footer .badge {
+    background-color: #ffc107;
+    color: #333;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
